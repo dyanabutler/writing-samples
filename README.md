@@ -8,5 +8,5 @@ This repo contains documents that I cycle through in order to demonstrate the qu
 ## Current Samples
 | prospect | folder |
 |---------| --------|
-| market content| `/marketContent`|
+| market content| [`/marketContent`](https://github.com/dyanabutler/writing-samples/tree/main/marketContent)|
 | medium copywriter| `/mediumWriter`|
