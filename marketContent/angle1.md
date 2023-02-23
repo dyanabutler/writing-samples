@@ -1,18 +1,19 @@
-# U.S. Government Prepares Investment Restrictions in China
+# Angle: for the U.S. Venture Capitalist
 
-## Introduction
+Key points:
+- point 1
+- point 2
+- point 3
+
+## Title: U.S. Government Prepares Investment Restrictions in China
 
 The U.S. government is preparing to issue new investment restrictions in China, which could impact venture capitalists who have been particularly active in the region. The restrictions are designed to limit American dollars that are used to finance the development of advanced technologies with military or surveillance applications within Chinese borders. 
 
-## What Are the Investment Restrictions?
+What Are the Investment Restrictions?
 
 The Biden administration is set to issue curbs on the investments that U.S. firms can make in China, particularly in areas like advanced computing, quantum computing, and certain artificial intelligence capabilities. The restrictions could be issued within two months and would likely require companies to report more information to the government about their planned investments in certain adversarial countries. 
 
-## How Will Venture Capitalists Be Affected?
-
 Venture capitalists who have been particularly active in the region may be impacted by the investment restrictions proposed by the U.S. government. The restrictions may limit their ability to invest in China and could impact their access to innovation and the next big win. 
-
-## Concerns from Industry Groups
 
 Industry groups have pushed back against overly broad restrictions, arguing that they could overwhelm government officials in charge of oversight, creating big delays and hurting U.S. competitiveness. However, the Biden administration's plan appears to be much more narrowly targeted at a few sensitive sectors. 
 
