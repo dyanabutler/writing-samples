@@ -1,13 +1,14 @@
 # U.S. Government Prepares Investment Restrictions in China
 
-It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge! The Biden administration is planning to slap investment curbs on U.S. firms in China, which could impact financing for advanced technologies like a karate chop to the pocketbook. With the recent rising tensions between the U.S. and China, there's a new layer of complexity to investing in these tech titans. 
+It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge! 
 
-China's access to advanced technology is under scrutiny, and U.S. investors are left wondering how that could affect their holdings. 
-Will investing in the likes of Apple, Amazon, and Google be like playing a game of Jenga, where one wrong move could bring everything crashing down?
+The Biden administration is planning to slap investment curbs on U.S. firms in China, which could impact financing for advanced technologies like a karate chop to the pocketbook. With the recent rising tensions between the U.S. and China, there's a new layer of complexity to investing in these tech titans. 
+
+China's access to advanced technology is under scrutiny, and U.S. investors are left wondering how that could affect their holdings. Will investing in the likes of Apple, Amazon, and Google be like playing a game of Jenga, where one wrong move could bring everything crashing down?
 And how did the COVID-19 pandemic play a crucial part in the potential benefits and drawbacks of investing in the industry?
-Let's dive into what to keep an eye on when investing in Big Tech in this new era of geopolitical complexity.
+Let's dive into ups and down on investing in Big Tech in this new era of geopolitical complexity.
 
-It all started with the COVID-19 pandemic having a profound impact on Big Tech, with companies seeing explosive growth.
+Big Tech has always been around, but with the COVID-19 pandemic having a profound impact on the industry, we saw companies reach explosive growths. 
 
 Amazon's delivery and e-commerce services saw a massive surge in demand as more people turned to online shopping during lockdowns. The company's revenue *increased by 38%* in 2020 compared to the previous year, with net sales reaching *$386 billion.*
 
@@ -19,17 +20,17 @@ As we move towards a post-pandemic world, it will be important to monitor the lo
 
 Being no stranger to controversy and scrutiny as seen in recent years, there has been a growing concern over the power and influence of Big Tech. From data privacy concerns to antitrust lawsuits, the industry has faced a range of regulatory challenges all around the World. 
 
-This includes the *second* antitrust lawsuit against Google filed by the Department of Justice on [January 2023](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies). While the EU has set high standards for data privacy protections and introduced new regulations to limit the power of Big Tech, lawmakers in the US are proposing bills to address data privacy, antitrust, and the spread of misinformation online.
+This includes the *second* antitrust lawsuit against Google filed by the Department of Justice on [January 2023](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies). While the EU has set high standards for data privacy protections and introduced new regulations to limit the power of Big Tech, lawmakers are now proposing bills to address data privacy, antitrust, and the spread of misinformation online.
 
 ![Antitrust Investigations and Lawsuits against Big Tech Companies](https://i.imgur.com/DcqES9n.png)
 _number of investigations and lawsuits against big tech companies_
 
 The U.S. government is now preparing to limit investments that American firms can make in China, particularly in areas like advanced computing, with the Treasury Department reaching out to the EU to ensure they do not provide similar financing to China; like two parents agreeing to cut off their kid's allowance.
 
-This is because of the growing concern about China's military and economic ambitions and are considering efforts to restrict Beijing's access to advanced technologies that could pose a National Security emergency.
+This is because of the growing concern surrounding China's military and economic ambitions and are considering efforts to restrict Beijing's access to advanced technologies that could pose a National Security threat.
 While simultaneously being one of America's largest trading partners and a primary geopolitical rival; how will this move fundamentally alter the financial relationship between the two countries?
 
-These tensions add to the regulatory challenges faced by Big Tech. Some industry experts have raised concerns that the restrictions on US firms investing in China could lead to retaliation from Beijing against American companies, affecting their market access and potential growth.
+These tensions add to the regulatory challenges faced by Big Tech. Some industry experts have raised concerns that the [restrictions on US firms investing](insertlinkonVentureFirms) in China could lead to retaliation from Beijing against American companies, affecting their market access and potential growth.
 
 ## Stocks with notable exposure to China that could be affected by the new regulations:
 * [Apple] generates around 20% of its revenue from China, and many of its products are manufactured there. The company has also faced criticism for complying with Chinese government censorship and surveillance practices.
