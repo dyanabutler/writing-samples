@@ -4,7 +4,7 @@ This folder contains samples demonstrating my strengths as a writer for content 
 There are three writing samples based off of the article below found from the New York Times on how the United States might be gradually curbing their investments in China.
 
 #### Angles I Chose:
-- [U.S. Venture Capitalist](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle1.md)
+- [Impact on U.S. Big Tech](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle2.md)
 
 ## Title: U.S. Aims to Curtail Technology Investment in China
 
