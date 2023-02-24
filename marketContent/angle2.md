@@ -25,7 +25,7 @@ The tech industry is no stranger to controversy and scrutiny and in recent years
 
 This includes the SECOND antitrust lawsuit against Google filed by the Department of Justice on [January 2023](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies). While the EU has set high standards for data privacy protections and introduced new regulations to limit the power of Big Tech, lawmakers in the US are proposing bills to address data privacy, antitrust, and the spread of misinformation online.
 
-![Antitrust Investigations and Lawsuits against Big Tech Companies](https://i.imgur.com/Mz3yGbx.png)
+![Antitrust Investigations and Lawsuits against Big Tech Companies](https://i.imgur.com/DcqES9n.png)
 _number of investigations and lawsuits against big tech companies_
 
 >Now What's Going On With China? 
