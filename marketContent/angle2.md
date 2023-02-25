@@ -28,7 +28,7 @@ _number of investigations and lawsuits against big tech companies_
 The U.S. government is now preparing to limit investments that American firms can make in China, particularly in areas like advanced computing, with the Treasury Department reaching out to the EU to ensure they do not provide similar financing to China; like two parents agreeing to cut off their kid's allowance.
 
 This is because of the growing concern surrounding China's military and economic ambitions and are considering efforts to restrict Beijing's access to advanced technologies that could pose a National Security threat.
-While simultaneously being one of America's largest trading partners and a primary geopolitical rival; how will this move fundamentally alter the financial relationship between the two countries?
+With China simultaneously being one of America's largest trading partners and a primary geopolitical rival; how will this move fundamentally alter the financial relationship between the two countries?
 
 These tensions add to the regulatory challenges faced by Big Tech. Some industry experts have raised concerns that the [restrictions on US firms investing](insertlinkonVentureFirms) in China could lead to retaliation from Beijing against American companies, affecting their market access and potential growth.
 
@@ -42,7 +42,7 @@ It's not the first time the US government has made efforts to restrict China's a
 
 It ain't all doom and gloom though, as many big tech companies are continuing to invest in emerging technologies, such as artificial intelligence (AI) and quantum computing. In particular, AI [(whom the U.S. is currently leading in)](https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/), has the potential to revolutionize a wide range of industries, from healthcare to finance to transportation. Companies such as Google, Microsoft, and IBM are already investing heavily and are rated TOP in AI research and development.
 
-As the U.S. continues to navigate its relationship with China and grapple with the challenges of emerging technologies, it's clear that Big Tech remains a critical player in and it's only going to get bigger. 
+As the U.S. continues to navigate its relationship with China and grapple with the challenges of emerging technologies, it's clear that Big Tech remains a critical player in this future-is-now World. 
 
 
 

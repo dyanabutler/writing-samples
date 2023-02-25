@@ -1,59 +1,25 @@
-# Angle: for the U.S. Venture Capitalist
+>Introduction
 
-Key points:
-- point 1
-- point 2
-- point 3
+Hey, fellow tech enthusiasts! Did you know that the U.S. government is about to throw some major shade at China's access to advanced technology? Yup, they're putting a ring on it and proposing investment restrictions that could affect venture capitalists, who have been making moves in the Chinese market. We're talking no more TikTok investments, people! 
 
-## Title: U.S. Government Prepares Investment Restrictions in China
+Let's break down what this means for venture capitalists and the broader economic barriers being built with China.
 
-The U.S. government is preparing to issue new investment restrictions in China, which could impact venture capitalists who have been particularly active in the region. The restrictions are designed to limit American dollars that are used to finance the development of advanced technologies with military or surveillance applications within Chinese borders. 
+>What Are the Investment Restrictions?
 
-What Are the Investment Restrictions?
+So, what are these investment restrictions all about? Well, for starters, the Biden administration has been preparing curbs on the investments that U.S. firms can make in China for months. And within the next two months, we could see these measures finally being issued.
 
-The Biden administration is set to issue curbs on the investments that U.S. firms can make in China, particularly in areas like advanced computing, quantum computing, and certain artificial intelligence capabilities. The restrictions could be issued within two months and would likely require companies to report more information to the government about their planned investments in certain adversarial countries. 
+Now, while the details of the pending executive order remain unclear, several people familiar with the plans say that the order would most likely prohibit outright investments in some sensitive areas, like quantum computing, advanced semiconductors, and certain artificial intelligence capabilities with military or surveillance applications. And as we mentioned earlier, U.S. officials have also been increasingly concerned about China’s use of biotechnology, but for now, the administration has decided to exclude the sector, at least initially.
 
-Venture capitalists who have been particularly active in the region may be impacted by the investment restrictions proposed by the U.S. government. The restrictions may limit their ability to invest in China and could impact their access to innovation and the next big win. 
+>How Will Venture Capitalists Be Affected
 
-Industry groups have pushed back against overly broad restrictions, arguing that they could overwhelm government officials in charge of oversight, creating big delays and hurting U.S. competitiveness. However, the Biden administration's plan appears to be much more narrowly targeted at a few sensitive sectors. 
+So, what does this mean for venture capitalists who have been particularly active in the region? Well, for starters, it could impact some of the biggest players, like Sequoia, which has offices in China and has invested in several Chinese companies, including Alibaba and ByteDance, the parent company of TikTok.
 
-## Conclusion
+According to tracking by Rhodium Group, a research firm with a focus on China, U.S. investors have been carrying out about 3,000 transactions per year in China, including both foreign direct investment and venture capital deals, with about 500 of those valued at more than $1 million. And with venture firms, which seed earlier-stage companies, being particularly active in the region, the impact of these investment restrictions could be substantial.
 
-The new investment restrictions proposed by the U.S. government are designed to limit American dollars that are used to finance the development of advanced technologies in China. While the restrictions are likely to impact venture capitalists who have been particularly active in the region, they may help fill a significant hole in the economic barriers that the United States is setting up with China. 
+>Concerns from Industry Groups
 
-Sources: [The New York Times](https://www.nytimes.com/2022/02/22/business/us-investment-restrictions-china.html)
+That said, industry groups have pushed back against overly broad restrictions, arguing that they could overwhelm government officials in charge of oversight, creating big delays and hurting U.S. competitiveness. And while the Biden administration's plan appears to be much more narrowly targeted at a few sensitive sectors, like quantum computing and advanced semiconductors, some industry representatives remain concerned that measures that apply only to U.S. firms, and not their foreign competitors, could put American businesses at a disadvantage.
 
+>Conclusion
 
-# U.S. Government Prepares Investment Restrictions in China
-
-## Introduction
-
-Growing concerns about China’s military and economic ambitions have lawmakers and the White House weighing yet another effort to restrict Beijing’s access to advanced technologies that could be used in war. This time, the U.S. government appears poised to extend its restrictions to a new area: American dollars that are used to finance the development of such technologies within Chinese borders. 
-
-The proposed restrictions could impact a variety of stakeholders, including venture capitalists who have been particularly active in the region. In this article, we will examine the investment restrictions in more detail and explore how they may affect venture capitalists.
-
-## What Are the Investment Restrictions?
-
-For months, the Biden administration has been preparing curbs on the investments that U.S. firms can make in China, particularly in areas like advanced computing, quantum computing, and certain artificial intelligence capabilities. Those measures are now largely complete and could be issued within two months.
-
-Details of the pending executive order remain unclear, but it is expected to require companies to report more information to the government about their planned investments in certain adversarial countries. Several people familiar with the plans said the order would most likely prohibit outright investments in some sensitive areas, like quantum computing, advanced semiconductors, and certain artificial intelligence capabilities with military or surveillance applications.
-
-U.S. officials have also increasingly been concerned about China’s use of biotechnology, but several people said the administration had decided to exclude the sector, at least initially.
-
-## How Will Venture Capitalists Be Affected?
-
-Venture capitalists who have been particularly active in the region may be impacted by the investment restrictions proposed by the U.S. government. For example, Sequoia, which has offices in China, has invested in several Chinese companies, including Alibaba and ByteDance, the parent company of TikTok.
-
-According to tracking by Rhodium Group, a research firm with a focus on China, U.S. investors have been carrying out about 3,000 transactions per year in China, including both foreign direct investment and venture capital deals, with about 500 of those valued at more than $1 million. Venture firms, which seed earlier-stage companies, have been particularly active in the region.
-
-## Concerns from Industry Groups
-
-Industry groups have pushed back against overly broad restrictions, arguing that they could overwhelm government officials in charge of oversight, creating big delays and hurting U.S. competitiveness. A broader proposal in Congress last year to review outbound investments in critical sectors including infrastructure and medicine prompted pushback from groups like the U.S. Chamber of Commerce and the U.S.-China Business Council.
-
-However, the Biden administration's plan appears to be much more narrowly targeted at a few sensitive sectors, like quantum computing and advanced semiconductors. Some industry representatives remain concerned that measures that apply only to U.S. firms, and not their foreign competitors, could put American businesses at a disadvantage.
-
-## Conclusion
-
-The new investment restrictions proposed by the U.S. government are designed to limit American dollars that are used to finance the development of advanced technologies in China. While the restrictions are likely to impact venture capitalists who have been particularly active in the region, they may help fill a significant hole in the economic barriers that the United States is setting up with China. 
-
-Venture capitalists who have invested in Chinese companies, such as Alibaba and ByteDance, may be impacted by the investment restrictions, limiting their ability to invest in China and impacting their access to innovation and the next big win. Industry groups have pushed back against overly broad restrictions, arguing that they could hurt U.S. competitiveness. However, the Biden administration's plan appears to be much more narrowly targeted
+So, there you have it! The investment restrictions being proposed by the U.S. government are still a bit of a mystery, but we do know that they could impact venture capitalists who have invested in Chinese companies, limit their ability to invest in China, and impact their access to innovation and the next big win. While industry groups are concerned about the potential negative impact of these restrictions, the Biden administration's plan appears to be more narrowly targeted, focused on a few sensitive sectors.
