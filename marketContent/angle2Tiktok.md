@@ -30,7 +30,9 @@ So then, why is Biden pushing so hard to ban Tiktok? It's just a dancing app for
 
 * [TikTok's parent company, Bytedance, had personnel in China use the app to track the locations of journalists who were writing stories about TikTok's national security risks.](https://www.nytimes.com/2022/12/22/technology/byte-dance-tik-tok-internal-investigation.html)
 
-* [TikTok officials secretly tried to find out more information about the Oracle serves that the government was using to protect against security risks on the app. They wanted to know the locations of those servers to try to get around those protections.](https://www.forbes.com/sites/emilybaker-white/2022/11/30/tiktok-chinese-state-media-divisive-politics/?sh=587bda3e4bf0)
+* [TikTok officials secretly tried to find out more information about the Oracle servers that the government was using to protect against security risks on the app. They wanted to know the locations of those servers to try to get around those protections.](https://www.forbes.com/sites/emilybaker-white/2022/11/30/tiktok-chinese-state-media-divisive-politics/?sh=587bda3e4bf0)
+
+* [TikTok has been engaged in a multi-year campaign to mislead U.S. officials and the American public about the threats it poses.](https://www.forbes.com/sites/emilybaker-white/2022/11/30/tiktok-chinese-state-media-divisive-politics/?sh=587bda3e4bf0)
 
 Despite Tiktok's inability to stay out of the crosshairs of these geopolitical tensions, they are vigilante in their defense that the company never shares data from American users, and Chinese government officials can't access it. At a [hearing in September](https://apnews.com/article/technology-china-united-states-national-security-government-and-politics-ac5c29cafaa1fc6bee990ed7e1fe5afc) 
 TikTok Chief Operating Officer Vanessa Pappas simply said,*"We will never share data, period."*
