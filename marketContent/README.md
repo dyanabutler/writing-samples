@@ -4,9 +4,10 @@ This folder contains samples demonstrating my strengths as a writer for content 
 There are three writing samples based off of the article below found from the New York Times on how the United States might be gradually curbing their investments in China.
 
 #### Angles I Chose:
-- [Impact on U.S. Big Tech](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle1BigTech.md)
+- [Impact on Big Tech](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle1BigTech.md)
+- [Impact on Tiktok](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle2Tiktok.md)
 
-## Title: U.S. Aims to Curtail Technology Investment in China
+## Title:  U.S. Aims to Curtail Technology Investment in China
 
 WASHINGTON — Growing concerns about China’s military and economic ambitions have lawmakers and the White House weighing yet another effort to restrict Beijing’s access to advanced technologies that could be used in war.
 
