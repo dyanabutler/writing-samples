@@ -1,5 +1,5 @@
 # Who Am I
-My name is Dyana Butler, and I am a professional technologist and writer.
+I am a professional technologist and writer.
 I find passion in creating engaging content by developing unique story angles, conducting research, interviewing sources, and optimizing content for SEO
 
 ## What's In Here
