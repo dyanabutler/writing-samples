@@ -1,6 +1,6 @@
 # Tencent's Gaming Empire: How Will the Biden Administration's Restrictions on China Affect the World's Largest Game Company? 
 
-Hey there, fellow gamers! Have you heard about Tencent? This Chinese tech giant is quietly building an empire, and you might not even know it yet. They're the brains behind WeChat, one of the most popular messaging apps in the world, and QQ.com, which is one of the largest web portals out there. Oh, and they also own the majority of China's music services, with a whopping 841 million active users!
+Hey there, fellow gamers! Have you heard about Tencent? This Chinese company is quietly building an empire, and you might not even know it yet. They're the brains behind WeChat, one of the most popular messaging apps in the world, and QQ.com, which is one of the largest web portals out there. Oh, and they also own the majority of China's music services, with a whopping 841 million active users!
 
 The Biden administration has recently imposed restrictions on China's access to certain technologies, and this could have a major impact on Tencent's plans for global domination. As the world becomes increasingly interconnected, the lines between countries and industries are blurring - and that means big changes could be on the horizon for Tencent, a behemoth lurking in the shadows of the tech industry. 
 
@@ -9,8 +9,6 @@ But here's where it gets really interesting: Tencent is also the world's BIGGEST
 Are you wondering how it’s possible you’ve been a gamer your whole life and never heard about Tencent? Yeah, me too. And that’s because Tencent is [“a ‘silent’ investor.”](https://www.ft.com/content/422e3bd4-6c0c-493c-b888-883d331a89b9) Slippery-snaking their way into over three dozen international video game companies while [Beijing is increasingly adding more restrictions to Chinese youth’s access to entertainment](https://www.gamesindustry.biz/china-games-trade-body-calls-for-more-restrictions-on-minors-playing-video-games) 
 
 So what’s next for Tencent? With Biden imposing restrictions on China's access to certain technology, how will this affect Tencent's expansion plans? As the world's biggest game company, will it be able to weather the storm or will it suffer major setbacks?
-
-Stay tuned as we delve deeper into Tencent's plans and the impact of U.S. restrictions on China's tech industry. 
 
 ### Tencent's Gaming Empire and Controversies
 
@@ -38,7 +36,7 @@ Yet, these controversies have yet to stem Tencent's investment fervor. The compa
 ![Tencent Ownership](https://i.imgur.com/N49USub.png)
 *They even have an 'undisclosed' amount of Roblox.*
 
-Tencent's position as the world's largest video game publisher has not gone unnoticed by the US government, with the Biden's push to restrict China's access to certain access to technology. 
+Tencent's position as the world's largest video game publisher has not gone unnoticed by the US government, with Biden's push to restrict China's access to certain access to technology. 
 
 ### The question remains: how will these restrictions affect Tencent's gaming empire?
 
@@ -49,5 +47,4 @@ For Tencent, this could mean losing access to the American market, which is a ke
 The situation is still developing, and it remains to be seen exactly what the Biden administration's restrictions on China will mean for Tencent. However, it's clear that the company will need to navigate a complex and changing regulatory landscape if it wants to continue its global expansion.
 
 As Tencent's CEO Pony Ma Huateng said, "Our vision is to create a virtual world that is parallel to the real world." It's time to buckle up and see where this ride takes us.
-
 
