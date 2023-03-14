@@ -32,8 +32,52 @@ In 2018, a former employee filed a complaint against Tencent for firing her afte
 
 Yet, these controversies have yet to stem Tencent's investment fervor. The company has invested in over three dozen international gaming companies to date, including Riot Games and Grinding Gear Games, the studio behind Path of Exile.
 
-![Tencent Ownership](https://i.imgur.com/EJkm2LY.png)
-![Tencent Ownership](https://i.imgur.com/N49USub.png)
+| Studio                              | Location            | Percentage owned |
+|-------------------------------------|---------------------|------------------|
+| Funcom                              | Norway              | 100%             |
+| Leyou                               | Hong Kong           | 100%             |
+| Riot Games                          | U.S.                | 100%             |
+| Sharkmob                            | Sweden              | 100%             |
+| Turtle Rock                         | U.S.                | 100%             |
+| Wake Up Interactive                 | Hong Kong           | 100%             |
+| Supercell                           | Finland             | 84%              |
+| Grinding Gear Games                 | New Zealand         | 80%              |
+| Epic Games                          | U.S.                | 40%              |
+| Pocket Gems                         | Japan               | 38%              |
+| Sea Limited (Garena)                | Singapore           | 25.60%           |
+| Dontnod Entertainment               | France              | 22.63%           |
+| Bloober Team                        | Poland              | 22%              |
+| Marvelous                           | Japan               | 20%              |
+| Netmarble                           | South Korea         | 17.66%           |
+| Kakao                               | South Korea         | 13.50%           |
+| Bluehold Studio                     | South Korea         | 11.50%           |
+| Frontier Developments               | U.K.                | 9%                |
+| Sumo Group                          | U.K.                | 8.75%            |
+| Kadokawa Corporation (FromSoftware, Spike Chunsoft) | Japan | 6.86%  |
+| Activision Blizzard                 | U.S.                | 5%                |
+| Paradox Interactive                 | Sweden              | 5%                |
+| Ubisoft                             | France              | 5%                |
+| Remedy Entertainment                | Finland             | 3.80%            |
+| 1C Entertainment                    | Poland              | Majority         |
+| 10 Chambers Collective              | Sweden              | Majority         |
+| Fatshark                            | Sweden              | Majority         |
+| Klei Entertainment                  | Canada              | Majority         |
+| Miniclip                            | Switzerland         | Majority         |
+| Yager Development                   | Germany             | Majority         |
+| Bohemia Interactive                 | Czech Republic      | Minority         |
+| Offworld Industries                 | Canada              | Minority         |
+| Payload Studios                     | U.K.                | Minority         |
+| Playtonic Games                     | U.K.                | Minority         |
+| Voodoo                              | France              | Minority         |
+| Aiming                              | Japan               | Undisclosed      |
+| Discord                             | U.S.                | Undisclosed      |
+| Inflexion Games                     | Canada              | Undisclosed      |
+| Lockwood Publishing                 | U.K.                | Undisclosed      |
+| PlatinumGames                       | Japan               | Undisclosed      |
+| Roblox                              | U.S.                | Undisclosed      |
+
+> source: https://www.polygon.com/22949530/tencent-the-worlds-biggest-video-game-company
+
 *They even have an 'undisclosed' amount of Roblox.*
 
 Tencent's position as the world's largest video game publisher has not gone unnoticed by the US government, with Biden's push to restrict China's access to certain access to technology. 
