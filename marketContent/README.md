@@ -6,7 +6,7 @@ There are three writing samples based off of the article below found from the Ne
 #### Angles I Chose:
 - [Impact on U.S. Big Tech](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle1BigTech.md)
 - [Impact on Tiktok](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle2Tiktok.md)
-- [Impact on Tencent]()
+- [Impact on Tencent](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle3Tencent.md)
 
 ## Title:  U.S. Aims to Curtail Technology Investment in China
 
