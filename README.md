@@ -11,3 +11,4 @@ This repository contains documents that I cycle through in order to demonstrate 
 |---------| --------|
 | market content| [`/marketContent`](https://github.com/dyanabutler/writing-samples/tree/main/marketContent)|
 | medium copywriter| `/mediumWriter`|
+| original content | [ `/originalcontent`](https://github.com/dyanabutler/writing-samples/tree/main/originalcontent)
