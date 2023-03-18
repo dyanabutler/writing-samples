@@ -1,16 +1,20 @@
-# The Dawn of GPT-4: Pioneering Applications and Lingering Concerns
+# Chat GPT-4 Can Hallucinate
 
-If you've been around long enough to remember the movie I,Robot (y'know the one with Will Smith) then you've definitely been keeping an eye artificial intelligence, and you've probably heard of GPT-3.5, the AI language model with its incredible ability to generate human-like text, write poetry, and even code. But now, GPT-4 is here, and though the OpenAI CEO, Sam Altham said, 
+If you've been around long enough to remember the movie I,Robot (y'know the one with Will Smith) then you've definitely been keeping an eye artificial intelligence, and you've probably heard of GPT-3.5, the AI language model with its incredible ability to generate human-like text, write poetry, and even code. Now with the announcement of GPT-4, let's take a look back at a statement from Sam Altman in January 2023. 
 
 ### "People are begging to be disappointed and they will be. The hype is just like... We don’t have an actual AGI and that’s sort of what’s expected of us.”
 
 back on January 18th of this year, [when an over-exaggerated graph went viral on twitter](https://twitter.com/AlexHormozi/status/1612913266195587072), showing the comparison in the number of parameters in GPT-3 (175 billion) to GPT-4 (100 trillion). Which Altman was compelled to call "complete bullshit" on.
 
-So what changed between January 18th and now? Well, ChatGPT has grown 100 million active users two months after launch, [which is the fastest record growth for a consumer application.](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/#:~:text=Feb%201%20(Reuters)%20%2D%20ChatGPT,a%20UBS%20study%20on%20Wednesday.) 
+##  So what changed between January 18th and now? 
 
-And now with the announcement of GPT-4, the model is now available for ChatGPT Plus subscribers and 3rd party partners via API, like DUOlingo and Khan Academy. 
+Well, ChatGPT has grown 100 million active users two months after launch, [which is the fastest record growth for a consumer application.](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/#:~:text=Feb%201%20(Reuters)%20%2D%20ChatGPT,a%20UBS%20study%20on%20Wednesday.) 
+
+ChatGPT, which originally debuted in November 2022, was built upon the GPT-3.5 language model and faced certain word and character limitations. Enter GPT-4: OpenAI's latest model boasting enhanced word support and an impressive capacity to process up to 25,000 words with enhanced precision, context, and creativity. Be advised, however, that ChatGPT may still encounter challenges when handling requests exceeding 500 words or 4,000 characters, [potentially resulting in abrupt, midsentence endings.](https://www.digitaltrends.com/computing/easily-bypass-the-chatgpt-word-limit/)
 
 ## Innovative Companies Leveraging GPT-4's Power
+
+This model is now available for ChatGPT Plus subscribers and these 3rd party partners via API:
 
 [Duolingo] (https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/ is using GPT-4 to deepen conversations with users. No more awkward, robotic language practice, now for the first time in history we're getting engaging, lifelike interactions.
 
