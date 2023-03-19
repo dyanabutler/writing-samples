@@ -7,7 +7,10 @@ If you've been around long enough to remember the movie I,Robot (y'know the one 
 
 ### "People are begging to be disappointed and they will be. The hype is just like... We don’t have an actual AGI and that’s sort of what’s expected of us.”
 
-[When an over-exaggerated graph went viral on twitter](https://twitter.com/AlexHormozi/status/1612913266195587072), showing the comparison in the number of parameters in GPT-3 (175 billion) to GPT-4 (100 trillion). Which Altman was compelled to call "complete bullshit" on. One twitter user in response called it "slightly-overhyped", [<img src="https://i.imgur.com/PgD4MOu.png" width="200" height="100">] 
+
+[An over-exaggerated graph went viral on twitter](https://twitter.com/AlexHormozi/status/1612913266195587072), showing the comparison in the number of parameters in GPT-3 (175 billion) to GPT-4 (100 trillion). Which Altman was compelled to call "complete bullshit" on. A Twitter user chimed in on the matter, remarking that the technology seems to be "slightly overhyped."
+
+<img src="https://i.imgur.com/PgD4MOu.png" width="600" height="200">
 
 ##  So What's Changed Since January 18th? 
 
@@ -21,7 +24,7 @@ This model is now available for ChatGPT Plus subscribers and these 3rd party par
 
 [Duolingo] (https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/ is using GPT-4 to deepen conversations with users. No more awkward, robotic language practice, now for the first time in history we're getting engaging, lifelike interactions.
 
-[Khan Academy](https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/) has also jumped on the GPT-4 bandwagon, offering personalized, one-on-one tutoring in subjects like math, computer science, and more. Imagine having a virtual tutor that can adapt to your learning style and help you ace those exams!
+[Khan Academy](https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/)has also jumped on the GPT-4 bandwagon, offering personalized, one-on-one tutoring in subjects like math, computer science, and more. Imagine having a virtual tutor that can adapt to your learning style and help you ace those exams!
 
 [Be My Eyes](https://openai.com/customer-stories/be-my-eyes), a free app that connects blind and low-vision people with sighted volunteers. By integrating GPT-4 with their Virtual Volunteer, users can send images to get detailed descriptions, analyze contents, and even receive step-by-step guides for cooking with the ingredients in their fridge. 
 
