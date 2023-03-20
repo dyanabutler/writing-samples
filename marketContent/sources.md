@@ -17,3 +17,9 @@
 [FCC Commissioner Brendan Carr's tweet urging a Tiktok Ban](https://www.dailydot.com/debug/fcc-brendan-carr-apple-google-tiktok-ban/)
 
 [US Army Bans TikTok Military Devices Signaling Growing Concern About App's Chinese Roots](https://www.washingtonpost.com/technology/2019/12/31/us-army-bans-tiktok-military-devices-signaling-growing-concern-about-apps-chinese-roots/)
+
+[TENCENT’S SILENT PURSUIT OF GLOBAL GAMING DOMINATION](https://nikopartners.com/tencents-silent-pursuit-of-global-gaming-domination/)
+
+[Tencent Becomes Latest Gaming Company to Back Away from the Metaverse](https://www.extremetech.com/gaming/343220-tencent-becomes-latest-gaming-company-to-back-away-from-the-metaverse)
+
+[OpenAI CEO Sam Altman on GPT-4: ‘people are begging to be disappointed and they will be’](https://www.theverge.com/23560328/openai-gpt-4-rumor-release-date-sam-altman-interview)

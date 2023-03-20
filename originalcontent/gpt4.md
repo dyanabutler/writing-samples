@@ -1,7 +1,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1056256695216644180/1086496687276703865/Az_humanoid_robot_army_realistic_cinematic_91a70f7e-d359-4b34-947b-dd52fe37894c.png" width="660" height="330">
 
-# Chat GPT-4 Can Hallucinate
+# Chat GPT-4 Can Hallucinate 
 
 If you've been around long enough to remember the movie I,Robot (y'know the one with Will Smith) then you've definitely been keeping an eye artificial intelligence, and you've probably heard of GPT-3, the AI language model with its incredible ability to generate human-like text, write poetry, and even code. Now with the announcement of GPT-4, let's take a look at a statement from Sam Altman back on January 18th. 
 

@@ -1,7 +1,7 @@
 # Market Analysis Samples
 This folder contains samples demonstrating my strengths as a writer for content related to technology, business, and global markets.  
 
-There are three writing samples based off of the article below found from the New York Times on how the United States might be gradually curbing their investments in China.
+Here are three writing samples based off of the article below found from the New York Times on how the United States might be gradually curbing their investments in China.
 
 #### Angles I Chose:
 - [Impact on U.S. Big Tech](https://github.com/dyanabutler/writing-samples/blob/main/marketContent/angle1BigTech.md)
