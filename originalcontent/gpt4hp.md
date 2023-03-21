@@ -1,5 +1,5 @@
 
-# I Played This ChatGPT Game Created By An 11 Year Old
+# I Played An 11 Year Old's ChatGPT Game
 
 AI has the power to generate game scenarios and create personalized gaming experiences that were previously unimaginable. With the rise of AI technology, game developers have been given the ability to create more complex games and challenges that can engage and captivate players on a whole new level.
 

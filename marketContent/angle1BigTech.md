@@ -1,8 +1,6 @@
 # U.S. Government Prepares Investment Restrictions in China
 
-It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge! 
-
-The Biden administration is planning to slap investment curbs on U.S. firms in China, which could impact financing for advanced technologies like a karate chop to the pocketbook. With the recent rising tensions between the U.S. and China, there's a new layer of complexity to investing in these tech titans. 
+It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge!  
 
 China's access to advanced technology is under scrutiny, and U.S. investors are left wondering how that could affect their holdings. Will investing in the likes of Apple, Amazon, and Google be like playing a game of Jenga, where one wrong move could bring everything crashing down?
 And how did the COVID-19 pandemic play a crucial part in the potential benefits and drawbacks of investing in the industry?
@@ -36,14 +34,10 @@ These tensions add to the regulatory challenges faced by Big Tech. Some industry
 * [Apple] generates around 20% of its revenue from China, and many of its products are manufactured there. The company has also faced criticism for complying with Chinese government censorship and surveillance practices.
 * [Tesla] has invested heavily in China, with a Gigafactory in Shanghai that produces Model 3 and Model Y vehicles for the local market. However, the company has also faced scrutiny over safety concerns and data privacy issues in China.
 * [Facebook] and [Google] have both been blocked in China for years, but they still have business ties to the country. Facebook has reportedly been working on a censorship tool to comply with Chinese regulations, while Google has faced criticism for reportedly developing a censored search engine for China.
-* [Bytedance](https://www.wsj.com/articles/general-atlantic-sequoia-capital-are-key-drivers-in-oracle-bid-for-tiktok-11598310734), the parent company of TikTok, has also found itself in the crosshairs of the debate over how to manage US-Chinese financial ties.
+* [Bytedance, the parent company of Tiktok](https://www.dyanabutler.com/blog/posts/angle2tiktok),has also found itself in the crosshairs of the debate over how to manage US-Chinese financial ties.
 
-It's not the first time the US government has made efforts to restrict China's access to advanced technologies and investments, citing national security concerns. These efforts have targeted companies such as [Huawei, which has been blacklisted by the US government and banned from doing business with US companies.](https://www.androidauthority.com/huawei-google-android-ban-988382/) 
+It's not the first time the US government tried to restrict China's access to advanced technologies and investments, citing national security concerns. These efforts have targeted companies such as [Huawei, which has been blacklisted by the US government and banned from doing business with US companies.](https://www.androidauthority.com/huawei-google-android-ban-988382/) 
 
-It ain't all doom and gloom though, as many big tech companies are continuing to invest in emerging technologies, such as artificial intelligence (AI) and quantum computing. In particular, AI [(whom the U.S. is currently leading in)](https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/), has the potential to revolutionize a wide range of industries, from healthcare to finance to transportation. Companies such as Google, Microsoft, and IBM are already investing heavily and are rated TOP in AI research and development.
+It ain't all doom and gloom though, as many big tech companies are continuing to invest in emerging technologies. In particular, AI [(whom the U.S. is currently leading in)](https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/), has the potential to revolutionize a wide range of industries, from healthcare to finance to transportation. Companies such as Google, Microsoft, and IBM are already investing heavily and are rated TOP in AI research and development.
 
 As the U.S. continues to navigate its relationship with China and grapple with the challenges of emerging technologies, it's clear that Big Tech remains a critical player in this future-is-now World. 
-
-
-
-
