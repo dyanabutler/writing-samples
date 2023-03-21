@@ -1,5 +1,7 @@
 # U.S. Government Prepares Investment Restrictions in China
 
+![headerimage](https://i.imgur.com/CeXr6DM.png)
+
 It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge!  
 
 China's access to advanced technology is under scrutiny, and U.S. investors are left wondering how that could affect their holdings. Will investing in the likes of Apple, Amazon, and Google be like playing a game of Jenga, where one wrong move could bring everything crashing down?
@@ -41,3 +43,6 @@ It's not the first time the US government tried to restrict China's access to ad
 It ain't all doom and gloom though, as many big tech companies are continuing to invest in emerging technologies. In particular, AI [(whom the U.S. is currently leading in)](https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/), has the potential to revolutionize a wide range of industries, from healthcare to finance to transportation. Companies such as Google, Microsoft, and IBM are already investing heavily and are rated TOP in AI research and development.
 
 As the U.S. continues to navigate its relationship with China and grapple with the challenges of emerging technologies, it's clear that Big Tech remains a critical player in this future-is-now World. 
+
+
+
