@@ -1,6 +1,8 @@
 # Tencent's Gaming Empire: How Will the Biden Administration's Restrictions on China Affect the World's Largest Game Company? 
 
-Hey there, fellow gamers! Have you heard about Tencent? This Chinese company is quietly building an empire, and you might not even know it yet. They're the brains behind WeChat, one of the most popular messaging apps in the world, and QQ.com, which is one of the largest web portals out there. Oh, and they also own the majority of China's music services, with a whopping 841 million active users!
+![header](https://www.dyanabutler.com/assets/images/blog/tencentthumbnail.png)
+
+Have you heard about Tencent? This Chinese company is quietly building an empire, and you might not even know it yet. They're the brains behind WeChat, one of the most popular messaging apps in the world, and QQ.com, which is one of the largest web portals out there. Oh, and they also own the majority of China's music services, with a whopping 841 million active users!
 
 The Biden administration has recently imposed restrictions on China's access to certain technologies, and this could have a major impact on Tencent's plans for global domination. As the world becomes increasingly interconnected, the lines between countries and industries are blurring - and that means big changes could be on the horizon for Tencent, a behemoth lurking in the shadows of the tech industry. 
 

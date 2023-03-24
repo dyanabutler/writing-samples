@@ -1,5 +1,7 @@
 # Tiktok Might Be Out Again And Its Not Trump This Time
 
+![headerimage](https://i.imgur.com/CeXr6DM.png)
+
 Attention, Tiktokers! 
 Biden's ramping up his efforts to mitigate the risk of economic and military threats from China, which includes a possible TikTok ban. 
 

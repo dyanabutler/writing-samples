@@ -1,6 +1,6 @@
-# U.S. Government Prepares Investment Restrictions in China
+# U.S. Government Prepares Tech Restrictions in China
 
-![headerimage](https://i.imgur.com/CeXr6DM.png)
+![headerimage](https://www.dyanabutler.com/assets/images/blog/bigtechthumbnail.png)
 
 It's a bird, it's a plane, it's...a Chinese balloon putting Big Tech investors on edge!  
 
@@ -8,13 +8,13 @@ China's access to advanced technology is under scrutiny, and U.S. investors are 
 And how did the COVID-19 pandemic play a crucial part in the potential benefits and drawbacks of investing in the industry?
 Let's dive into ups and down on investing in Big Tech in this new era of geopolitical complexity.
 
-Big Tech has always been around, but with the COVID-19 pandemic having a profound impact on the industry, we saw companies reach explosive growths. 
+Big Tech has always been around, but the COVID-19 pandemic has had a seismic impact on the industry, [resulting in explosive growth for many companies.](https://www.dyanabutler.com/blog/posts/angle3tencent)
 
 Amazon's delivery and e-commerce services saw a massive surge in demand as more people turned to online shopping during lockdowns. The company's revenue *increased by 38%* in 2020 compared to the previous year, with net sales reaching *$386 billion.*
 
 Zoom, with its video conferencing platform. The company's user base skyrocketed from 10 million daily meeting participants in December 2019 to over 300 million in April 2020. Zoom's revenue *increased by 355%* in 2020 compared to the previous year, with total revenue reaching *$2.65 billion.*
 
-Big Tech as a whole has weathered the pandemic well.  According to a report by the [Information Technology and Innovation Foundation (ITIF)](https://itif.org/), the tech industry is one of the few sectors that has seen significant growth, with tech-related jobs accounting for more than 7% of all U.S. jobs. 
+According to a report by the [Information Technology and Innovation Foundation (ITIF)](https://itif.org/), the tech industry is one of the few sectors that has seen significant growth, with tech-related jobs accounting for more than 7% of all U.S. jobs. 
 
 As we move towards a post-pandemic world, it will be important to monitor the long-term effects of these changes on the industry and its' investors, as well as the potential risks and opportunities that lie ahead. 
 
