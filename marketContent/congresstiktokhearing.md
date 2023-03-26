@@ -1,6 +1,7 @@
-For the first time in my life, I am seeing Congress, republicans and democrats coming together to fully unanimously agree on something, and it's over a dancing app, Tiktok. 
+For the first time in my life, I am seeing Congress, republicans and democrats coming together to fully unanimously agree on something, and it's over a dancing app, Tiktok.
 
-Congress is getting a lot of fire from it's American citizens after a court hearing with Tiktok CEO was broadcasted live on the app's streaming services. Members of congress are being scrutinized for their seemingly lack of knowledge in the technology field, or just how simple at-home wifi works. 
+
+Congress is getting a lot of fire from it's American citizens after a court hearing with Tiktok CEO was broadcasted live on the app's streaming services. Members of congress are being scrutinized for their seemingly devoid lack of knowledge in the technology field, or just how simple at-home wifi works. 
 
 Tons of meme edits and capcut templates are showing up from the congressional hearing, even Chew is coming out and posting a thank you to their supporters. He made sure to highlight the 150 million Americans who use Tiktok as their primary source of social media, tips and tricks, and even as a news outlet. 
 
@@ -37,7 +38,7 @@ Project Texas, a $1.5 billion project that involves the relocation of all U.S. u
 
 While this eliminates the concern over Tiktok's agenda of spying on people, this doesn't change the fact that Chinese officials can still access this data until it's completely deleted. Chew was asked if Tiktok would commit to selling U.S. user data to anyone, and it came with a inconclusive answer, Chew simply saying he would have to "get back to you" when further pushed for interrogation. 
 
-## Does This Invalidate Our First Amendment Rights? 
+## Does This Infringe Our First Amendment Rights? 
 
 Is this an infringement on our First Amendment Rights? or is the other way around where China, a communist party, infringing on our American right to privacy. 
 
