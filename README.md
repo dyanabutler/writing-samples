@@ -10,5 +10,5 @@ This repository contains documents that I cycle through in order to demonstrate 
 | prospect | folder |
 |---------| --------|
 | market content| [`/marketContent`](https://github.com/dyanabutler/writing-samples/tree/main/marketContent)|
-| medium copywriter| `/mediumWriter`|
+| medium copywriter| [`/mediumWriter`](https://github.com/dyanabutler/writing-samples/tree/main/mediumWriter)
 | original content | [ `/originalcontent`](https://github.com/dyanabutler/writing-samples/tree/main/originalcontent)
