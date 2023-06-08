@@ -1,11 +1,10 @@
-For the first time in my life, I am seeing Congress, republicans and democrats coming together to fully unanimously agree on something, and it's over a dancing app, Tiktok.
+For the first time in my life, I am witnessing Congress, Republicans and Democrats, coming together to unanimously agree on something, and it's over a dancing app, TikTok.
 
+Congress is facing backlash from American citizens after a court hearing with TikTok's CEO was broadcast live on the app's streaming services. Members of Congress are being scrutinized for their seemingly complete lack of knowledge in the technology field or understanding of basic home Wi-Fi.
 
-Congress is getting a lot of fire from it's American citizens after a court hearing with Tiktok CEO was broadcasted live on the app's streaming services. Members of congress are being scrutinized for their seemingly devoid lack of knowledge in the technology field, or just how simple at-home wifi works. 
+Numerous meme edits and CapCut templates have emerged from the congressional hearing, even prompting TikTok's CEO to post a thank you to their supporters. He highlighted the 150 million Americans who use TikTok as their primary source of social media, tips and tricks, and even news.
 
-Tons of meme edits and capcut templates are showing up from the congressional hearing, even Chew is coming out and posting a thank you to their supporters. He made sure to highlight the 150 million Americans who use Tiktok as their primary source of social media, tips and tricks, and even as a news outlet. 
-
-Even well-known users like @ugolord, who makes the "Lawyer's Reaction" videos, with 6.5 million followers commented this on Chew's most recent Tiktok post. 
+Well-known users like @ugolord, creator of the "Lawyer's Reaction" videos, with 6.5 million followers, commented on TikTok's CEO's most recent post
 
 ![img](https://i.imgur.com/4Ad0t2q.jpg)
 

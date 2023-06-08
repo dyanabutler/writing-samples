@@ -23,3 +23,5 @@
 [Tencent Becomes Latest Gaming Company to Back Away from the Metaverse](https://www.extremetech.com/gaming/343220-tencent-becomes-latest-gaming-company-to-back-away-from-the-metaverse)
 
 [OpenAI CEO Sam Altman on GPT-4: ‘people are begging to be disappointed and they will be’](https://www.theverge.com/23560328/openai-gpt-4-rumor-release-date-sam-altman-interview)
+
+[Xeenon Launches New Creator Revenue Sharing Model](https://medium.com/graviton-xyz/xeenon-launches-new-creator-revenue-sharing-model-9e297b09bc4f)

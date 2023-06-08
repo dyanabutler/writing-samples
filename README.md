@@ -1,9 +1,9 @@
-# Who Am I
-A professional technologist and writer.
+# Who Am I?
+A technologist and writer.
 
 I find passion in creating engaging content by developing unique story angles, conducting research, interviewing sources, and optimizing content for SEO
 
-## What's In Here
+## What's In Here?
 This repository contains documents that I cycle through in order to demonstrate the quality and breadth of work I can deliver to my clients.
 
 ## Current Samples
